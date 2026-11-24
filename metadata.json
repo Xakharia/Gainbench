@@ -1,0 +1,6 @@
+{
+  "name": "GainBench",
+  "description": "Local batch MP3 and audio volume normalizer with true-peak limiting, LUFS/dBFS targeting, lossless 1.5 dB header gain, and byte-exact ID3 tag, lyrics, and artwork preservation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
